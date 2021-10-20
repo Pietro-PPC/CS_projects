@@ -21,4 +21,5 @@ The program will convert the input image to a mosaic of the tiles in the tile di
 
 ## Image format
 The input image should be in the format PPM (P3 or P6). The output will be in the same format as the input.
-T
+The tiles should also be in one of these two formats.
+
