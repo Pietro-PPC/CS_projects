@@ -1,3 +1,3 @@
 # Assembly allocator
 
-Program that allocates memory created using assembly. 
+Assembly library that allocates, frees and prints the state of the memory in the heap section.
